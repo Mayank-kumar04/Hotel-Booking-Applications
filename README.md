@@ -92,7 +92,7 @@ Before running the application, make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/supabhinav/Hotel-Booking-Applications.git
+git clone https://github.com/Mayank-kumar04/Hotel-Booking-Applications.git
 cd Hotel-Booking-Applications
 ```
 
