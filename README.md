@@ -239,10 +239,9 @@ Some possible improvements include:
 
 ## Author
 
-**Abhinav Jha**
+**Mayank Kumar**
 
-M.Tech Computer Science and Engineering
-NIT Silchar
+B.Tech Computer Science and Engineering
 
 ---
 
